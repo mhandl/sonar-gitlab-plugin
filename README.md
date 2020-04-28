@@ -7,6 +7,16 @@ Inspired by https://github.com/SonarCommunity/sonar-github
 
 # Current version
 
+## Version 4.2.0
+
+**Only SonarQube  8.2**
+
+
+## Version 4.1.0
+
+**Only SonarQube < 7.9.x**
+
+
 ## Version 4.1.0-SNAPSHOT
 
 **Only SonarQube < 7.7, because preview mode is removed**
